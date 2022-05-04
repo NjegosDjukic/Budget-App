@@ -1,2 +1,2 @@
 # Budget--App
-https://njegos-djukic-budget-app.netlify.app/
+Live: https://njegos-djukic-budget-app.netlify.app/
